@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-## Contact
-Reach me on: [Linkedin @strahinjamijatovic](https://www.linkedin.com/in/strahinja-mijatovic-1a1159188/)
-
-## Tech.
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -17,5 +12,10 @@ Reach me on: [Linkedin @strahinjamijatovic](https://www.linkedin.com/in/strahinj
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+## Contact
+Reach me on: [Linkedin @strahinjamijatovic](https://www.linkedin.com/in/strahinja-mijatovic-1a1159188/)
+
+
 
 
